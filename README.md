@@ -4,14 +4,21 @@ Visualise and Predict stock trend using python, streamlit, plotly, fbprophet, ka
 
 
 **Getting the Modules ready**
+
 ```
-pip3 install streamlit fbprophet yfinance plotly
+pip3 install streamlit fbprophet kats yfinance plotly
 ```
 All the Files related to this project is linked above.
 
-**Import the modules in main.py**
+The main.py is the only python file which you would need to execute; to quickly get the web app running in few seconds.
 
+Its easy to run a stream lit app by running the following commands in terminal, after you navigate to the respective folder containing the downloaded file /your_folder/main.py -
 
+```
+streamlit run main.py
+```
+
+<img width="1308" alt="Colab Analysis" src="https://user-images.githubusercontent.com/86947956/149668843-cfadc91a-55ac-46d2-bb94-c5436bdd4ef4.png">
 
 
 
