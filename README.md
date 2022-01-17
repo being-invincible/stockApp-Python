@@ -21,9 +21,11 @@ cd /<your_folder>/<main.py>
 streamlit run main.py
 ```
 
-<img width="1308" alt="App Preview" src="https://user-images.githubusercontent.com/86947956/149668946-4b7317f5-837d-49e1-b0c2-1248b4345fda.png">
+<img width="1309" alt="Streamlit_app" src="https://user-images.githubusercontent.com/86947956/149752215-52db52d5-bc56-4c15-9e8e-bedb647ddb97.png">
 
 
+Note :
+The Model is under development to improve various factors like efficiency. DO NOT USE IT FOR YOUR REAL MONEY!!
 
 
 
