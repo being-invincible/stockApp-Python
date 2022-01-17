@@ -11,7 +11,7 @@ pip3 install streamlit fbprophet kats yfinance plotly
 
 All the Files related to this project are linked above.
 
-The main.py is the only python file which you would need to execute; inorder to quickly get the web app running in few seconds.
+The main.py is the only python file which you would need to execute; inorder to quickly get the web app running in few seconds. The other two python notebook is for the machine learning model reference.
 
 Its easy to run a stream lit app by running the following commands in terminal, after you navigate to the respective folder containing the downloaded file i.e. cd /<your_folder>/<main.py> or use VS code -
 
@@ -20,6 +20,8 @@ cd /<your_folder>/<main.py>
 
 streamlit run main.py
 ```
+
+Happy Streamlitting!!
 
 <img width="1309" alt="Streamlit_app" src="https://user-images.githubusercontent.com/86947956/149752215-52db52d5-bc56-4c15-9e8e-bedb647ddb97.png">
 
